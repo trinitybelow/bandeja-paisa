@@ -2,5 +2,5 @@
 ## tarea academia geek  html, css
 ### conceptos ejecutados de la primera tarea 
 ~~~
-Manejo del html y del css basicos 
+Manejo del html y del css basicos, maneje los estilos de letras segun especificacion y colores 
 ~~~
