@@ -1,4 +1,4 @@
-# Modulo-1-01Conceptos-basicos-Tarea-1
+# Entrega-Modulo-1-01-Conceptos-Básicos-Tarea-01-Ejercicio-1
 ## tarea academia geek  html, css
 ### conceptos ejecutados de la primera tarea 
 https://trinitybelow.github.io/ pagina web
