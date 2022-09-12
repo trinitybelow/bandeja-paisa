@@ -24,5 +24,5 @@ y ahora segui con la hoja de estilo primero primero le hice un backgraund genera
 segui con el <h3> tabien le corregi el tamaño y le cambie la fuente segui con los parrafos, que les cambie tambien el estilo de fuente 
 tamaño y color y con las listas hice tambien como con lo del <h3>
 ~~~
-[![estilos.png](https://i.postimg.cc/mkN7K9H5/estilos.png)](https://postimg.cc/4HyK9mw6)
+[![estilos.png](https://i.postimg.cc/mkN7K9H5/estilos.png)](https://postimg.cc/4HyK9mw6) 
 
